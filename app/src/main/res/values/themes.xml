@@ -17,4 +17,9 @@
     <style name="DialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
         <item name="colorAccent">@color/app_color</item>
     </style>
+
+    <style name="InputLayoutWhite" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#fff</item>
+        <item name="boxStrokeWidth">1dp</item>
+    </style>
 </resources>
